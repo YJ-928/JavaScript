@@ -1,2 +1,2 @@
-# JavaScript_JS
+# JavaScript - .js
 #### A complete JavaScript repository.
